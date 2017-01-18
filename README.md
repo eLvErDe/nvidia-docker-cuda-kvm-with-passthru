@@ -1,5 +1,6 @@
 Edit top variables to suit your own setup
 
+
 What's going to happen then
 
 1. Unbind graphic card id from current kernel driver
